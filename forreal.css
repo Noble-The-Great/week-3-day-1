@@ -1,0 +1,36 @@
+html, body, h1,header,p {margin: 0; padding: 0px; }
+
+header {padding: 10px; background-color: yellow;}
+
+header h1 {font-size: 25px; ; }
+
+#link {position: relative;
+float: right; bottom: 25px; word-spacing: 10px ;}
+
+a{text-decoration: none;}
+
+body{height: 2000px; background-color: tan; width: 1000px;}
+
+#Dashboard { border: 5px solid black; width: 300px; line-height: 30px;
+margin-top: 40px;  background-color: white; margin-left: 20px;
+float: left; height: 100%;}
+
+.moreinfo {text-align: center; border-width: 100px; background: yellow; text-decoration-color: white;width: 250px; margin: 20px auto; padding: 5px; ;}
+
+#budget {  border:5px solid black;width: 300px; float: left; margin-top: 35px; line-height: 35px; background-color: white;margin-left: 20px;height: 100%;}
+
+#checkbooks {border: 5px solid black; float: left; width:300px; margin-left: 20px; background-color: white;line-height: 30px; margin-top: 30px; border-spacing: 20px;height: 100%;}
+
+.para {margin-left: 10px; margin-right:10px;}
+
+#money { border:5px solid black; width: 300px; margin-top: 700px; background-color: white; margin-left: 20px; line-height: 35px; float: left;}
+
+#love {border: 5px solid black; width: 300px; float: left; background-color: white; margin-left: 20px;
+}
+
+#youngthug {border: 5px solid black; width: 300px; float: left;background-color: white;
+}
+
+#poppa {border: 5px solid black; width: 300px; float: left; background-color: white;}
+
+#top3 { height: 550px; }
