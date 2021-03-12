@@ -4,8 +4,10 @@ header {padding: 10px; background-color: yellow;}
 
 header h1 {font-size: 25px; ; }
 
-#link {position: relative;
-float: right; bottom: 25px; word-spacing: 10px ;}
+#link {display: flex;
+justify-content: flex-end; }
+
+.so{margin-right: 10px; margin-right: 10px; }
 
 
 
